@@ -1,2 +1,6 @@
 # Hello-world
-Hiya github
+
+Hi!
+Aashima Jaiswal here.
+I am currently a high school student.
+Just exploring github ;)
